@@ -1,7 +1,7 @@
 ''
 UART communication on Raspberry Pi using Pyhton
 http://www.electronicwings.com
-'''
+''
 import serial
 from time import sleep
 
